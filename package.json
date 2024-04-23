@@ -1,0 +1,6 @@
+{
+  "name": "com.verell.extentions.guitoolbar",
+  "version": "1.0.0",
+  "displayName": "Gui Toolbar Extentions",
+  "description": "Allows you to add buttons, fields to the toolbar."
+}
