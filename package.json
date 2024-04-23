@@ -2,5 +2,10 @@
   "name": "com.verelll.extentions.guitoolbar",
   "displayName": "Gui Toolbar Extentions",
   "version": "1.0.0",
+  "author": {
+    "name": "verelll",
+    "email": "",
+    "url": ""
+  },
   "description": "Allows you to add buttons, fields to the toolbar."
 }
